@@ -5,7 +5,7 @@
 
 <h2>Spring MVC Demo - Main Page</h2>
 
-<a href="showForm">Open form</a>
+<a href="hello/showForm">Open form</a>
 </body>
 
 </html>
